@@ -2,6 +2,8 @@
 
 This is my frontend assignment. I built the signup flow from the Figma file using React and TypeScript.
 
+# DEMO URL: https://signupformroot.netlify.app/
+
 ## How to run
 
 ```
