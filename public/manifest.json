@@ -1,0 +1,9 @@
+{
+  "short_name": "Root Credit",
+  "name": "Root Credit Registration",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0052ff",
+  "background_color": "#f4f6f9"
+}
