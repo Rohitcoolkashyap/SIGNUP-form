@@ -31,7 +31,7 @@ Upload the build folder to Vercel or Netlify.
 ## Stack
 
 - React + TypeScript (create react app setup with react-scripts)
-- CSS only, no tailwind or bootstrap
+- CSS only
 - Code splitting with React.lazy on steps
 
 ## Folder structure
